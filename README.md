@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TruongHuuNam
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning IT  at SaiGon Technology University
-- 📫 reach me at truonghuunam2002@gmail.com
-
+👋 Hi, I’m Truong Huu Nam
+👀 I’m passionate about coding and software development
+🌱 Currently studying IT at Saigon Technology University
+📫 You can reach me at truonghuunam2002@gmail.com
 
 <!---
 TruongHuuNam/TruongHuuNam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
